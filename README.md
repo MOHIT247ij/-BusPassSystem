@@ -12,26 +12,26 @@ This is a simple Java Swing Desktop Application for managing bus passes connecte
 
 ## Screenshots
 
-### Login Page
-<img width="806" height="870" alt="Login Page" src="https://github.com/user-attachments/assets/c95a30f7-2143-4411-b78e-20b8aec81542" />
+### 🔐 Login Page
+<img width="474" alt="Login Page" src="https://github.com/user-attachments/assets/f0583f13-5df8-4ede-aac5-5db8cf433edc" />
 
-### Home Page
-<img width="827" height="542" alt="Home Page" src="https://github.com/user-attachments/assets/88b578a3-51f5-4f8b-8518-75f5aeead0e3" />
+### 🏠 Home Page
+<img width="1919" alt="Home Page" src="https://github.com/user-attachments/assets/bbe85c58-5422-4a6f-b0a3-1288c49916a6" />
 
-### Add Person
-<img width="636" height="657" alt="Add Person" src="https://github.com/user-attachments/assets/91bf3805-0024-4c32-a481-9211ef281b5a" />
+### 👤 Add Person
+<img width="636" alt="Add Person" src="https://github.com/user-attachments/assets/91bf3805-0024-4c32-a481-9211ef281b5a" />
 
-### Add Pass
-<img width="772" height="572" alt="Add Pass" src="https://github.com/user-attachments/assets/3cec8774-7204-40da-9908-fe46be8b28fc" />
+### 🎫 Add Pass
+<img width="772" alt="Add Pass" src="https://github.com/user-attachments/assets/3cec8774-7204-40da-9908-fe46be8b28fc" />
 
-### Person Pass
-<img width="916" height="901" alt="Person Pass" src="https://github.com/user-attachments/assets/a1746166-5745-471d-8108-a09f81bc6b72" />
+### 🔗 Add Person-Pass
+<img width="916" alt="Add Person Pass" src="https://github.com/user-attachments/assets/a1746166-5745-471d-8108-a09f81bc6b72" />
 
-### Reports
-<img width="1919" height="1082" alt="Reports" src="https://github.com/user-attachments/assets/bbe85c58-5422-4a6f-b0a3-1288c49916a6" />
+### 📊 Generate Reports
+<img width="827" alt="Generate Reports" src="https://github.com/user-attachments/assets/88b578a3-51f5-4f8b-8518-75f5aeead0e3" />
 
-### Update Pass
-<img width="474" height="486" alt="Update Pass" src="https://github.com/user-attachments/assets/f0583f13-5df8-4ede-aac5-5db8cf433edc" />
+### ✏️ Update Pass
+<img width="806" alt="Update Pass" src="https://github.com/user-attachments/assets/c95a30f7-2143-4411-b78e-20b8aec81542" />
 
 ---
 
